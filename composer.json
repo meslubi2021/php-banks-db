@@ -1,14 +1,18 @@
 {
-  "name": "chekalskiy/php-banks-db",
+  "name": "cryental/php-banks-db",
   "description": "PHP bank cards IIN/BIN database. Get bank info by card number",
   "license": "MIT",
   "keywords": ["bin", "card", "creditcard", "iin", "issuer identification numbers"],
-  "homepage": "https://github.com/chekalsky/php-banks-db",
+  "homepage": "https://github.com/cryental/php-banks-db",
   "authors": [
     {
       "name": "Ilya Chekalsky",
       "email": "ilya@chekalsky.com",
       "homepage": "https://chekalsky.com"
+    },
+    {
+      "name": "Cryental",
+      "homepage": "https://cryental.dev"
     }
   ],
   "require": {
